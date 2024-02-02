@@ -1,0 +1,15 @@
+#previewVideoElement {  
+  width: 150px !important;
+  height: 100px !important;
+  top: 12px;
+  left: 12px;
+  position: absolute;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  overflow: hidden;
+}
+
+#callMenu
+{
+  display: none;
+}
